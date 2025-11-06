@@ -1,0 +1,520 @@
+[
+  {
+    "id": "recipe_1",
+    "title": "Chocolate Soufflé Pancakes with Burnt Butter Maple Drizzle",
+    "description": "Light and airy soufflé pancakes infused with rich chocolate flavor, topped with a decadent burnt butter maple drizzle for the perfect breakfast treat.",
+    "cuisine_type": "French",
+    "meal_type": "breakfast",
+    "difficulty": "medium",
+    "prep_time": 20,
+    "cook_time": 25,
+    "total_time": 45,
+    "servings": 2,
+    "ingredients": [
+      {
+        "name": "chocolate",
+        "quantity": 2,
+        "unit": "oz",
+        "available": true
+      },
+      {
+        "name": "flour",
+        "quantity": 1,
+        "unit": "cup",
+        "available": true
+      },
+      {
+        "name": "eggs",
+        "quantity": 3,
+        "unit": "large",
+        "available": true
+      },
+      {
+        "name": "milk",
+        "quantity": 1,
+        "unit": "cup",
+        "available": true
+      },
+      {
+        "name": "butter",
+        "quantity": 4,
+        "unit": "tbsp",
+        "available": true
+      }
+    ],
+    "instructions": [
+      "Separate egg yolks from whites and place whites in a clean mixing bowl.",
+      "Whisk egg yolks with 2 tbsp sugar until pale and creamy.",
+      "Melt chocolate in a double boiler, then slowly whisk in warm milk.",
+      "Fold the chocolate mixture into egg yolks, then gently fold in flour.",
+      "Whip egg whites with a pinch of salt until stiff peaks form.",
+      "Gradually fold one-third of whites into chocolate batter to lighten, then fold in remaining whites.",
+      "Heat a non-stick pan over medium heat with a small amount of butter.",
+      "Pour 1/4 cup batter for each pancake and cook until bubbles form on surface.",
+      "Flip carefully and cook for another 2 minutes until golden.",
+      "For the drizzle, heat butter in a small pan until golden brown and nutty.",
+      "Add maple syrup and simmer for 1 minute, then drizzle over pancakes."
+    ],
+    "nutritional_highlights": [
+      "Rich in protein from eggs",
+      "Good source of calcium from milk",
+      "Antioxidants from dark chocolate"
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "chef_tips": [
+      "Ensure egg whites are completely free of yolk for maximum volume",
+      "Don't skip the double boiler when melting chocolate to prevent seizing"
+    ],
+    "variations": [
+      "Add chocolate chips to the batter for extra texture",
+      "Substitute almond milk for a dairy-free version"
+    ],
+    "estimated_calories_per_serving": 420,
+    "match_percentage": 85,
+    "missing_ingredients": [
+      "sugar",
+      "salt",
+      "maple syrup"
+    ],
+    "skill_techniques": [
+      "whipping egg whites",
+      "folding technique",
+      "making burnt butter"
+    ],
+    "equipment_needed": [
+      "double boiler",
+      "non-stick pan",
+      "stand mixer or hand whisk"
+    ],
+    "storage_notes": "Best served immediately but can be stored in refrigerator for up to 2 days",
+    "wine_pairing": "Sweet dessert wine or coffee"
+  },
+  {
+    "id": "recipe_2",
+    "title": "Molten Chocolate Lava Mug Cake",
+    "description": "Individual chocolate cakes with a gooey, molten center that are ready in just 90 seconds - perfect for satisfying sudden chocolate cravings.",
+    "cuisine_type": "American",
+    "meal_type": "dessert",
+    "difficulty": "easy",
+    "prep_time": 5,
+    "cook_time": 90,
+    "total_time": 95,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "chocolate",
+        "quantity": 1.5,
+        "unit": "oz",
+        "available": true
+      },
+      {
+        "name": "flour",
+        "quantity": 4,
+        "unit": "tbsp",
+        "available": true
+      },
+      {
+        "name": "eggs",
+        "quantity": 1,
+        "unit": "large",
+        "available": true
+      },
+      {
+        "name": "milk",
+        "quantity": 3,
+        "unit": "tbsp",
+        "available": true
+      },
+      {
+        "name": "butter",
+        "quantity": 2,
+        "unit": "tbsp",
+        "available": true
+      }
+    ],
+    "instructions": [
+      "Melt chocolate and butter together in a microwave-safe mug for 30 seconds.",
+      "Stir until smooth, then add milk and mix well.",
+      "Whisk in flour and egg until just combined.",
+      "Microwave on high for 90 seconds until edges are set but center is still soft.",
+      "Let cool for 2 minutes before serving to allow center to set slightly.",
+      "Dust with powdered sugar and serve with vanilla ice cream if desired."
+    ],
+    "nutritional_highlights": [
+      "High in protein from eggs",
+      "Rich in antioxidants from chocolate",
+      "Quick energy from simple carbohydrates"
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "chef_tips": [
+      "Don't overmix the batter to keep the texture light",
+      "Timing is crucial - 90 seconds is perfect for a molten center"
+    ],
+    "variations": [
+      "Add a tablespoon of Nutella to the center before cooking",
+      "Mix in chopped nuts for extra crunch"
+    ],
+    "estimated_calories_per_serving": 380,
+    "match_percentage": 80,
+    "missing_ingredients": [
+      "sugar",
+      "powdered sugar",
+      "vanilla ice cream"
+    ],
+    "skill_techniques": [
+      "microwave cooking",
+      "ingredient melting",
+      "timing precision"
+    ],
+    "equipment_needed": [
+      "microwave-safe mug",
+      "microwave",
+      "whisk"
+    ],
+    "storage_notes": "Best eaten immediately but can be reheated for 30 seconds if needed",
+    "wine_pairing": "Port wine or espresso"
+  },
+  {
+    "id": "recipe_3",
+    "title": "Chocolate Avocado Mousse",
+    "description": "A rich and creamy dairy-free mousse made with avocados that's surprisingly healthy yet indulgently chocolatey.",
+    "cuisine_type": "Fusion",
+    "meal_type": "dessert",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "servings": 4,
+    "ingredients": [
+      {
+        "name": "chocolate",
+        "quantity": 4,
+        "unit": "oz",
+        "available": true
+      },
+      {
+        "name": "avocado",
+        "quantity": 2,
+        "unit": "medium",
+        "available": true
+      },
+      {
+        "name": "milk",
+        "quantity": 0.25,
+        "unit": "cup",
+        "available": true
+      },
+      {
+        "name": "vanilla extract",
+        "quantity": 1,
+        "unit": "tsp",
+        "available": false
+      }
+    ],
+    "instructions": [
+      "Melt chocolate in a double boiler or microwave until smooth.",
+      "Scoop avocado flesh into a food processor or blender.",
+      "Add melted chocolate, milk, and vanilla extract to the avocado.",
+      "Blend until completely smooth and creamy, scraping down sides as needed.",
+      "Taste and adjust sweetness if needed (can add honey or maple syrup).",
+      "Chill in refrigerator for at least 30 minutes before serving.",
+      "Serve in small bowls or glasses, garnished with berries or whipped cream."
+    ],
+    "nutritional_highlights": [
+      "Rich in healthy monounsaturated fats from avocado",
+      "High in fiber",
+      "Gluten-free and dairy-free"
+    ],
+    "dietary_tags": [
+      "vegan",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "chef_tips": [
+      "Use very ripe avocados for the creamiest texture",
+      "Blend longer than you think necessary to eliminate any chunkiness"
+    ],
+    "variations": [
+      "Add a pinch of sea salt for salted chocolate mousse",
+      "Mix in orange zest for a chocolate-orange flavor"
+    ],
+    "estimated_calories_per_serving": 220,
+    "match_percentage": 75,
+    "missing_ingredients": [
+      "honey",
+      "berries",
+      "whipped cream"
+    ],
+    "skill_techniques": [
+      "food processing",
+      "chocolate melting",
+      "ingredient combining"
+    ],
+    "equipment_needed": [
+      "food processor or blender",
+      "double boiler or microwave"
+    ],
+    "storage_notes": "Store covered in refrigerator for up to 3 days",
+    "wine_pairing": "Sweet Moscato or dessert wine"
+  },
+  {
+    "id": "recipe_4",
+    "title": "Chocolate Chip Cookie Dough Hummus",
+    "description": "A fun and unexpected twist on traditional hummus, this sweet version tastes like edible cookie dough and makes a perfect dessert dip.",
+    "cuisine_type": "Fusion",
+    "meal_type": "snack",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "servings": 6,
+    "ingredients": [
+      {
+        "name": "chocolate chips",
+        "quantity": 0.5,
+        "unit": "cup",
+        "available": true
+      },
+      {
+        "name": "chickpeas",
+        "quantity": 1,
+        "unit": "can",
+        "available": false
+      },
+      {
+        "name": "tahini",
+        "quantity": 0.25,
+        "unit": "cup",
+        "available": false
+      },
+      {
+        "name": "honey",
+        "quantity": 3,
+        "unit": "tbsp",
+        "available": false
+      }
+    ],
+    "instructions": [
+      "Drain and rinse chickpeas, then pat dry with paper towels.",
+      "In a food processor, combine chickpeas, tahini, and honey.",
+      "Process until smooth and creamy, scraping down sides as needed.",
+      "Add vanilla extract and a pinch of salt, process again.",
+      "Fold in chocolate chips by hand to maintain some texture.",
+      "Chill for at least 30 minutes before serving.",
+      "Serve with apple slices, graham crackers, or pretzels for dipping."
+    ],
+    "nutritional_highlights": [
+      "Good source of plant-based protein from chickpeas",
+      "Rich in fiber",
+      "Contains healthy fats from tahini"
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "chef_tips": [
+      "Make sure chickpeas are very well drained to avoid a watery texture",
+      "Process longer than you think for maximum creaminess"
+    ],
+    "variations": [
+      "Add mini marshmallows for extra sweetness",
+      "Mix in crushed graham crackers for texture"
+    ],
+    "estimated_calories_per_serving": 180,
+    "match_percentage": 60,
+    "missing_ingredients": [
+      "vanilla extract",
+      "salt",
+      "apple slices",
+      "graham crackers"
+    ],
+    "skill_techniques": [
+      "food processing",
+      "ingredient folding",
+      "texture adjustment"
+    ],
+    "equipment_needed": [
+      "food processor",
+      "rubber spatula"
+    ],
+    "storage_notes": "Store covered in refrigerator for up to 5 days",
+    "wine_pairing": "Sweet dessert wine or hot chocolate"
+  },
+  {
+    "id": "recipe_5",
+    "title": "Chocolate Banana Bread Overnight Oats",
+    "description": "A healthy breakfast that tastes like dessert, combining the flavors of chocolate banana bread with the convenience of overnight oats.",
+    "cuisine_type": "American",
+    "meal_type": "breakfast",
+    "difficulty": "easy",
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "servings": 1,
+    "ingredients": [
+      {
+        "name": "chocolate",
+        "quantity": 1,
+        "unit": "tbsp",
+        "available": true
+      },
+      {
+        "name": "banana",
+        "quantity": 0.5,
+        "unit": "medium",
+        "available": true
+      },
+      {
+        "name": "rolled oats",
+        "quantity": 0.5,
+        "unit": "cup",
+        "available": false
+      },
+      {
+        "name": "milk",
+        "quantity": 0.5,
+        "unit": "cup",
+        "available": true
+      },
+      {
+        "name": "chia seeds",
+        "quantity": 1,
+        "unit": "tbsp",
+        "available": false
+      }
+    ],
+    "instructions": [
+      "Mash banana in a jar or container with a fork until smooth.",
+      "Add oats, milk, chia seeds, and cocoa powder to the mashed banana.",
+      "Stir well until all ingredients are combined.",
+      "Cover and refrigerate overnight (at least 6 hours).",
+      "In the morning, stir again and add more milk if needed for desired consistency.",
+      "Top with sliced banana, chopped nuts, or a drizzle of honey before serving."
+    ],
+    "nutritional_highlights": [
+      "High in fiber from oats and chia seeds",
+      "Rich in potassium from banana",
+      "Antioxidants from cocoa"
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "chef_tips": [
+      "Use very ripe bananas for maximum sweetness",
+      "Let it sit for at least 6 hours for the oats to fully soften"
+    ],
+    "variations": [
+      "Add a tablespoon of peanut butter for protein",
+      "Mix in cinnamon for extra flavor"
+    ],
+    "estimated_calories_per_serving": 320,
+    "match_percentage": 70,
+    "missing_ingredients": [
+      "cocoa powder",
+      "honey",
+      "nuts"
+    ],
+    "skill_techniques": [
+      "ingredient combining",
+      "food preparation",
+      "meal prep"
+    ],
+    "equipment_needed": [
+      "mason jar or container with lid",
+      "fork"
+    ],
+    "storage_notes": "Can be prepared up to 3 days in advance",
+    "wine_pairing": "Hot chocolate or coffee"
+  },
+  {
+    "id": "recipe_6",
+    "title": "Chocolate Espresso Energy Bites",
+    "description": "No-bake energy bites packed with chocolate and espresso flavors, perfect for a quick energy boost before or after workouts.",
+    "cuisine_type": "American",
+    "meal_type": "snack",
+    "difficulty": "easy",
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "servings": 12,
+    "ingredients": [
+      {
+        "name": "chocolate",
+        "quantity": 2,
+        "unit": "oz",
+        "available": true
+      },
+      {
+        "name": "oats",
+        "quantity": 1,
+        "unit": "cup",
+        "available": false
+      },
+      {
+        "name": "peanut butter",
+        "quantity": 0.5,
+        "unit": "cup",
+        "available": false
+      },
+      {
+        "name": "honey",
+        "quantity": 0.25,
+        "unit": "cup",
+        "available": false
+      },
+      {
+        "name": "coffee",
+        "quantity": 1,
+        "unit": "tbsp",
+        "available": false
+      }
+    ],
+    "instructions": [
+      "Melt chocolate in a double boiler or microwave until smooth.",
+      "In a large bowl, mix oats, peanut butter, honey, and instant coffee.",
+      "Add melted chocolate and stir until well combined.",
+      "Place the mixture in the refrigerator for 15 minutes to firm up slightly.",
+      "Roll the mixture into 1-inch balls using your hands.",
+      "Place on a parchment-lined tray and refrigerate for at least 30 minutes.",
+      "Store in an airtight container in the refrigerator for up to one week."
+    ],
+    "nutritional_highlights": [
+      "Good source of protein from peanut butter",
+      "Rich in fiber from oats",
+      "Natural energy from honey and coffee"
+    ],
+    "dietary_tags": [
+      "vegetarian"
+    ],
+    "chef_tips": [
+      "If the mixture is too sticky, add more oats; if too dry, add more peanut butter",
+      "Chill the mixture before rolling to make it easier to handle"
+    ],
+    "variations": [
+      "Add dried fruit like cranberries for extra sweetness",
+      "Roll in coconut flakes before chilling"
+    ],
+    "estimated_calories_per_serving": 95,
+    "match_percentage": 65,
+    "missing_ingredients": [
+      "instant coffee",
+      "coconut flakes",
+      "dried fruit"
+    ],
+    "skill_techniques": [
+      "ingredient combining",
+      "food rolling",
+      "chilling technique"
+    ],
+    "equipment_needed": [
+      "double boiler or microwave",
+      "mixing bowl",
+      "parchment paper"
+    ],
+    "storage_notes": "Store in refrigerator for up to one week or freeze for up to 3 months",
+    "wine_pairing": "Espresso or dessert wine"
+  }
+]

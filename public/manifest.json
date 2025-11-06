@@ -1,0 +1,115 @@
+{
+  "name": "ZeroSpoil - Smart Food Waste Management",
+  "short_name": "ZeroSpoil",
+  "description": "Reduce food waste with AI-powered expiration predictions, smart recipe suggestions, and local donation connections.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d8125b",
+  "orientation": "portrait-primary",
+  "categories": ["food", "lifestyle", "productivity", "utilities"],
+  "icons": [
+    {
+      "src": "/icons/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Add Food Item",
+      "short_name": "Add Item",
+      "description": "Quickly add a new food item to your inventory",
+      "url": "/dashboard?action=add-item",
+      "icons": [
+        {
+          "src": "/icons/shortcut-add.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "View Analytics",
+      "short_name": "Analytics",
+      "description": "Check your waste reduction progress",
+      "url": "/dashboard/analytics",
+      "icons": [
+        {
+          "src": "/icons/shortcut-analytics.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Recipe Suggestions",
+      "short_name": "Recipes",
+      "description": "Get AI-powered recipe recommendations",
+      "url": "/dashboard/recipes",
+      "icons": [
+        {
+          "src": "/icons/shortcut-recipes.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "share_target": {
+    "action": "/dashboard/food-items/share",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url",
+      "files": [
+        {
+          "name": "images",
+          "accept": ["image/*"]
+        }
+      ]
+    }
+  }
+}
